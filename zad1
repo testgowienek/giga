@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pozycjonowanie</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis accumsan quam, sed efficitur est fringilla et. Donec sed vestibulum urna. Aliquam vitae convallis urna, a dictum leo. Suspendisse at luctus ex. Cras sagittis, lectus vitae mattis eleifend, 
+            <span id="jedyny">A tutaj będziemy kombinować</span> mi nisi eleifend dui, vitae varius lectus tortor sit amet justo. 
+            Maecenas bibendum sit amet nulla non accumsan. Maecenas bibendum sit amet nulla non accumsan.
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis accumsan quam, sed efficitur est fringilla et. Donec sed vestibulum urna. Aliquam vitae convallis urna, a dictum leo. Suspendisse at luctus ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis accumsan quam, sed efficitur est fringilla et. Donec sed vestibulum urna. Aliquam vitae convallis urna, a dictum leo. Suspendisse at luctus ex.
+            la et. Donec sed vestibulum urna. Aliquam vitae convallis urna, a dictum leo. Suspendisse at luctus ex. Lorem ipsum dolor sit amet, consectetur 
+        </p>
+    </main>
+</body>
+</html>
+
+
+css
+
+* {
+    margin: 0;
+}
+
+
+p {
+    text-align: center;
+    border: 1px solid purple;
+}
+
+
+#jedyny {
+    background-color: greenyellow;
+}
+

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Muminki</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="box">
+    <h2>Włóczykij</h2>
+    <img src="muminki/włoczykij.jpg" alt="Włóczykij">
+</section>
+
+<section class="box">
+    <h2>Mała Mi</h2>
+    <img src="muminki/mala_mi.jpg" alt="Mała Mi">
+</section>
+
+</body>
+</html>
+
+
+
+.box {
+    background-color: aquamarine;
+    width: 500px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.box img {
+    float: right;
+    width: 200px;
+}

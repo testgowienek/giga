@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Kotki</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<aside>
+    <img src="kot1.png" alt="kot1">
+    <img src="kot2.png" alt="kot2">
+</aside>
+
+<article>
+
+    <h3>Kotki</h3>
+
+    <section>
+
+        <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eu erat sapien.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+        Praesent imperdiet odio a nisl luctus, id bibendum magna efficitur.
+
+        Sed eu blandit nulla. Curabitur eu cursus ligula, id lacinia felis.
+        Sed at felis nisl. Nulla eu pellentesque est. Proin pellentesque tincidunt dui,
+        eu imperdiet urna rhoncus sed.
+
+        Nam sed fermentum eros, sit amet congue nulla. Sed vel condimentum ex, at pellentesque erat.
+        Aenean vestibulum mollis tellus a faucibus. Mauris laoreet, diam at vehicula feugiat,
+        sem nulla tempor velit, eu viverra nibh massa ac lectus.
+        </p>
+
+    </section>
+
+</article>
+
+<footer>
+    Wykonał: Imię i nazwisko
+</footer>
+
+</body>
+</html>
+
+
+
+
+
+body
+{
+    font-family: Arial;
+}
+
+/* obrazki */
+img
+{
+    padding: 20px;
+    display: block;
+}
+
+/* aside */
+aside
+{
+    background-color: blueviolet;
+    width: 350px;
+    float: right;
+}
+
+/* article */
+article
+{
+    background-color: aliceblue;
+    width: 500px;
+}
+
+/* section */
+section
+{
+    background-color: aquamarine;
+}
+
+/* footer */
+footer
+{
+    clear: both;
+    margin-top: 10px;
+}

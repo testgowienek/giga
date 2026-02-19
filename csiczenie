@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Ćwiczenie article i section</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<article>
+    <section></section>
+</article>
+
+</body>
+</html>
+
+
+
+article {
+    width: 600px;
+    height: 300px;
+    background-color: #C6DE89;
+    position: relative;
+}
+
+section {
+    position: absolute;
+    background-color: steelblue;
+
+    top: 25px;
+    left: 100px;
+    right: 50px;
+    bottom: 75px;
+}

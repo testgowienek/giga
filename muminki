@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Muminki</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="sekcja">
+    <h2>Włóczykij</h2>
+    <img src="muminki/włoczykij.jpg" alt="Włóczykij" class="prawo">
+    <p>
+        Włóczykij to wolny duch, który kocha przyrodę, wędrówki i spokój. 
+        Nie lubi ograniczeń i często podróżuje ze swoim harmonijką.
+    </p>
+</section>
+
+<section class="sekcja">
+    <h2>Mała Mi</h2>
+    <img src="muminki/mala_mi.jpg" alt="Mała Mi" class="lewo">
+    <p>
+        Mała Mi jest mała, ale bardzo odważna i zadziorna. 
+        Zawsze mówi to, co myśli, i nie boi się żadnych wyzwań.
+    </p>
+</section>
+
+</body>
+</html>
+
+
+
+
+.sekcja {
+    background-color: aquamarine;
+    width: 500px;
+    height: 300px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.sekcja img {
+    width: 150px;
+    margin: 10px;
+}
+
+.prawo {
+    float: right;
+}
+
+.lewo {
+    float: left;
+}

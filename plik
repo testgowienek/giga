@@ -1,0 +1,66 @@
+1
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pozycjonowanie</title>
+</head>
+<body>
+    <main>
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sagittis accumsan quam, sed efficitur est fringilla et. Donec sed vestibulum urna. Aliquam vitae convallis urna, a dictum leo. Suspendisse at luctus ex. Cras sagittis, lectus vitae mattis eleifend, <span id="jedyny">A tutaj będziemy kombinować</span>mi nisi eleifend dui, vitae varius lectus tortor sit amet justo. Maecenas bibendum sit amet nulla non accumsan. Donec accumsan arcu sed purus gravida, blandit efficitur lorem suscipit. Vivamus vestibulum massa vel tortor fringilla, non varius ex congue. Suspendisse tincidunt metus quis ligula pellentesque, id auctor dui laoreet. Proin efficitur dignissim augue, at tempus nulla porttitor id. Vivamus nulla ipsum, facilisis eget consequat eu, sodales sollicitudin metus. Morbi urna arcu, ultrices vehicula hendrerit in, porttitor non eros. Sed pulvinar diam sed ligula feugiat fermentum. Ut condimentum tempus ultrices. Donec ac quam ut dolor vestibulum iaculis quis elementum est. Integer lobortis cursus erat nec imperdiet.
+            
+        </p>
+        
+    </main>
+</body>
+</html>
+
+
+2
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <article>
+        <img src="muminki/zima-muminkow.gif" alt="muminki">
+        <span class="uwaga">Zima w dolinie muminków zapadała tak jak na kontynencie europejskim od połowy grudnia do połowy marca. Czyli Rodzina Muminków nigdy nie obchodziła gwiazdki!</span>
+        Pewnego szarego poranka na Dolinę Muminków spadł pierwszy
+        śnieg. Padał miękko i cicho – w parę godzin wszystko było białe.
+        Muminek stał na schodkach przed domem, patrząc, jak dolina okrywa się zimową kołdrą. „Dziś wieczorem – myślał sobie – ułożymy się
+        do długiego zimowego snu”. (Wszystkie trolle[1] Muminki układają się
+        do snu zimowego gdzieś koło listopada. Bardzo to rozsądnie ze strony
+        każdego, kto nie lubi zimna i zimowych ciemności). Potem Muminek
+        zamknął za sobą drzwi i poszedł do swojej mamy.
+        – Śnieg przyszedł! – powiedział.
+        – Wiem – odpowiedziała Mama Muminka. – Macie już wszyscy
+        w łóżeczkach najcieplejsze kołdry. Ty będziesz spał w pokoiku na poddaszu po stronie zachodniej razem z Ryjkiem.
+        – Ale Ryjek tak okropnie chrapie – powiedział Muminek. – Czy nie
+        mógłbym zamiast z nim spać z Włóczykijem?
+        – Jak chcesz – odpowiedziała Mama Muminka. – Ryjek może spać
+        w pokoiku na poddaszu od strony wschodniej.
+        Następnie rodzina Muminka i wszyscy jej przyjaciele oraz znajomi
+        uroczyście i z namaszczeniem zaczęli przygotowywać się do długiej zimy. Mama Muminka nakryła do stołu na werandzie, lecz każdy dostał
+        na kolację tylko trochę igliwia świerkowego w filiżance. (Jest bowiem
+        rzeczą bardzo ważną napełnić sobie żołądek igliwiem, jeśli się ma
+        zamiar spać przez trzy miesiące). Po kolacji – nie była zresztą zbyt
+        smaczna – wszyscy powiedzieli sobie dobranoc trochę czulej niż
+        zwykle, a Mama Muminka przypomniała o myciu zębów. Następnie
+        Tatuś Muminka obszedł dom i pozamykał drzwi i okiennice oraz zawiesił siatkę od much na żyrandolu, żeby się nie zakurzył. Potem wszyscy położyli się do swoich łóżek, w których porobili sobie przytulne
+        dołki, naciągnęli kołdry na uszy i myśleli o czymś przyjemnym.
+        – Obawiam się, że zmarnujemy masę czasu! – westchnął Muminek.
+        – Nie martw się – odparł Włóczykij. – Będziemy mieli piękne sny,
+        a gdy się obudzimy, będzie wiosna.
+        – Uhm... – wymamrotał sennie Muminek, który odpłynął już w mglistą krainę marzeń.
+        Na dworze padał śnieg – gęsty i puszysty. Pokrył już schody, zwisał
+        ciężko z dachów i parapetów. Wkrótce cały dom Muminków stać się
+        miał krągłą kupką śniegu. Zegary przestały tykać jeden po drugim.
+        Nadeszła zima
+    </article>
+</body>
+</html>
